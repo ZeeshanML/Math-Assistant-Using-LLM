@@ -1,0 +1,5 @@
+langchian
+streamlit
+wikipedia
+langchian-community
+langchian-groq
