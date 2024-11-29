@@ -1,5 +1,5 @@
-langchian
+langchain
 streamlit
 wikipedia
-langchian-community
-langchian-groq
+langchain-community
+langchain-groq
